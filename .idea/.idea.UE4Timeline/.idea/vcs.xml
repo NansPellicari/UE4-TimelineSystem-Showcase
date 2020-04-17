@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/GoogleTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/GoogleTest/Source/googletest-release-1.10.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/NansCoreHelpers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/NansTimelineSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/NansUE4TestsHelpers" vcs="Git" />
+  </component>
+</project>
